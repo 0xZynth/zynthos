@@ -44,3 +44,4 @@ To run ZynthOS in the QEMU emulator:
 3. Install all the tools & crates
 4. run: ```cargo run``` 
 * The kernel will boot, initialize the GDT & IDT, map the heap, and drop you into the shell.
+![Screenshot of ZynthOS shell](https://raw.githubusercontent.com/0xZynth/zynthos/main/Assets/zos.png)
